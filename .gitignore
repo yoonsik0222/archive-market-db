@@ -1,0 +1,28 @@
+# Visual Studio 캐시 / 사용자별 설정
+.vs/
+*.user
+*.suo
+*.aps
+*.VC.db
+*.VC.opendb
+*.ipch
+ipch/
+
+# 빌드 결과물
+x64/
+x86/
+Win32/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.iobj
+*.ipdb
+*.pch
+*.idb
+*.res
+*.tlog
+*.log
+*.recipe
